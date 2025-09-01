@@ -1,4 +1,3 @@
-<!doctype html>
 <html lang="en">
 <head>
   <meta charset="utf-8" />
@@ -68,7 +67,7 @@
       if(saved === 'light'){document.documentElement.style.setProperty('--bg','#f8fafc');}
     })();
     function copyEmail(){
-      const email = 'khaled.dev.data@gmail.com';
+      const email = 'khalednasser602@gmail.com';
       navigator.clipboard.writeText(email).then(()=>{
         const el = document.getElementById('copied');
         el.textContent = 'Copied!';
@@ -82,10 +81,10 @@
     "@type": "Person",
     "name": "Khaled Nasser",
     "jobTitle": "Data Engineering Student & Freelancer",
-    "url": "https://your-username.github.io/",
+    "url": "https://khaled-0110.github.io/",
     "sameAs": [
-      "https://www.upwork.com/",
-      "https://github.com/your-username"
+      "https://www.upwork.com/](https://www.upwork.com/freelancers/~01f46ef7187c8ddb2d?mp_source=share",
+      "https://github.com/khaled-0110"
     ],
     "knowsAbout": ["SQL","Python","Pandas","Data Cleaning","ETL","Dashboards"]
   }
@@ -95,9 +94,11 @@
   <header>
     <div class="container nav">
       <a class="brand" href="#top">
-        <div class="logo"><span>K</span></div>
-        <span>Khaled Nasser</span>
-      </a>
+  <div class="logo">
+    <img src="https://i.ibb.co/0jbJsWmW/Chat-GPT-Image-Aug-9-2025-06-02-38-PM-Small.png" alt="Khaled Nasser Logo">
+  </div>
+  <span>Khaled Nasser</span>
+</a>
       <nav>
         <a href="#projects">Projects</a>
         <a href="#skills">Skills</a>
