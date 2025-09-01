@@ -142,7 +142,7 @@
           <p class="meta">3σ rule • replace/flag outliers • reproducible scripts</p>
           <p>Demo of calculating averages, detecting outliers, and adjusting values using SQL and Pandas. Includes README and sample data.</p>
           <div class="actions">
-            <a class="btn" href="https://github.com/your-username/data-cleaning-examples" target="_blank" rel="noopener">GitHub Repo</a>
+            <a class="btn" href="https://github.com/khaled-0110/data-cleaning-examples" target="_blank" rel="noopener">GitHub Repo</a>
           </div>
         </article>
         <article class="card project">
@@ -150,7 +150,7 @@
           <p class="meta">ingest • transform • load • simple reporting</p>
           <p>Small ETL pipeline: load CSVs, clean types, write to SQLite, and run SQL reports. Great for small business data.</p>
           <div class="actions">
-            <a class="btn" href="https://github.com/your-username/mini-etl-sqlite" target="_blank" rel="noopener">GitHub Repo</a>
+            <a class="btn" href="https://github.com/khaled-0110/mini-etl-sqlite" target="_blank" rel="noopener">GitHub Repo</a>
           </div>
         </article>
         <article class="card project">
@@ -158,7 +158,7 @@
           <p class="meta">requests • BeautifulSoup • Pandas</p>
           <p>Beginner scraper to collect tabular data, validate, and export to CSV for analysis. Includes polite scraping checklist.</p>
           <div class="actions">
-            <a class="btn" href="https://github.com/your-username/web-scraping-basics" target="_blank" rel="noopener">GitHub Repo</a>
+            <a class="btn" href="https://github.com/khaled-0110/web-scraping-basics" target="_blank" rel="noopener">GitHub Repo</a>
           </div>
         </article>
       </div>
@@ -240,23 +240,13 @@
         <div class="card">
           <p>Let’s work on your data. Email me or reach me on Upwork/GitHub.</p>
           <p>
-            <button class="btn" onclick="copyEmail()">Email: khaled.dev.data@gmail.com <span id="copied" class="kbd" style="margin-left:8px">Copy</span></button>
+            <button class="btn" onclick="copyEmail()">Email: khalednasser602@gmail.com <span id="copied" class="kbd" style="margin-left:8px">Copy</span></button>
           </p>
           <p class="grid" style="grid-template-columns:repeat(auto-fit,minmax(160px,1fr));gap:12px">
-            <a class="btn" href="https://github.com/your-username" target="_blank" rel="noopener">GitHub</a>
-            <a class="btn" href="https://www.upwork.com/" target="_blank" rel="noopener">Upwork</a>
+            <a class="btn" href="https://github.com/khaled-0110" target="_blank" rel="noopener">GitHub</a>
+            <a class="btn" href="https://www.upwork.com/freelancers/~01f46ef7187c8ddb2d?mp_source=share" target="_blank" rel="noopener">Upwork</a>
           </p>
         </div>
-        <div class="card">
-          <h3>How to Use</h3>
-          <ol class="list">
-            <li>Fork/download this page and edit text (name, links, email, prices).</li>
-            <li>Push as <span class="kbd">index.html</span> to a repo named <span class="kbd">your-username.github.io</span>.</li>
-            <li>Open <span class="kbd">https://your-username.github.io</span> — GitHub Pages will host it.</li>
-          </ol>
-        </div>
-      </div>
-    </section>
   </main>
 
   <footer>
